@@ -173,3 +173,10 @@ Ecommerce-Follow-Along is a full-fledged **E-Commerce Application** built using 
 ✅ Used redux in user details page.
 
 
+### **🛠️ Milestone 32  implementing redux
+
+✅ Implemeted redux in frontend.
+
+
+
+
